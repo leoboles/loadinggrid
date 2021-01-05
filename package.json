@@ -21,7 +21,7 @@
     "@angular/router": "~9.0.0",
     "ag-grid-angular": "^22.1.1",
     "ag-grid-community": "^22.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jqwidgets-ng": "^9.0.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
